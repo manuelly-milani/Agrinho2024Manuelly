@@ -1,0 +1,86 @@
+header {
+    background-color: #F3FADC;
+    color: #F3FADC;
+
+
+}
+
+.cabeçalho-imagem {
+    width: 100%;
+
+
+}
+ .body{
+    background-color: white;
+ }
+
+.corpo2 {
+    background-color: #F3FADC;
+}
+
+.imagem-horta{
+    height: 80%;
+    width: 50%;
+    padding: 0px 0px 0px 243px;
+    }
+
+    .image-row {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 50px
+    }
+
+    .image-row img {
+        max-width: 150px; 
+    }
+
+.texto-um{
+    color: #77942E;
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center ;
+    padding: 90px 0xp 90xp 0xp;
+}
+
+.texto-dois{
+    color: #77942E;
+
+
+
+        display: flex;
+        justify-content: space-around;
+        align-items: center ;
+        padding: 90px 0xp 90xp 0xp;
+      }
+      
+
+      .texto-sugestao{
+        color: #77942E;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .descriçao-do-produto1{
+        color: #77942E;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+      }
+
+      .descriçao-do-produto-div-conteudo{
+        color: #77942E;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+.rodape-imagem{
+    width:  100%;
+    height: 10%;
+    padding:0px 0px 0px 0px;
+   
+  }
+  
+ 
